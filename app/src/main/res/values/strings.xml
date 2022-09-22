@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ND940C3-Project</string>
+    <string name="app_description">Download files from Internet</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="glide_url">https://github.com/bumptech/glide/archive/master.zip</string>
+    <string name="project_starter_code">https://github.com/udacity/nd940-c3-advanced-android-programming-project-starter/archive/master.zip</string>
+    <string name="retrofit_url">https://github.com/square/retrofit/archive/master.zip</string>
+
+    <string name="notification_title">Udacity: New download </string>
+    <string name="notification_description">The Project 3 repository is downloaded</string>
+    <string name="notification_button">See changes</string>
+
+    <string name="button_name">Click me</string>
+    <string name="button_loading">We are loading </string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="choose_the_file_you_want_to_download">Choose the file you want to download</string>
+    <string name="back_to_main_activity">Back to main activity</string>
+</resources>
